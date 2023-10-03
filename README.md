@@ -1,16 +1,14 @@
-### Hi there 👋
+# Peter McQuaid
 
-<!--
-**PeterMcQuaid/PeterMcQuaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📮 Available to connect
 
-Here are some ideas to get you started:
+![Static Badge](https://img.shields.io/badge/Peter%20McQuaid%20-%20%23ffcccb?logo=Gmail&link=mailto%3Apetermcquaid0101%40gmail.com)
+  ![Static Badge](https://img.shields.io/badge/Peter%20McQuaid%20-%20blue?logo=linkedin&link=https%3A%2F%2Fuk.linkedin.com%2Fin%2Fpetermcquaid)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+Solidity Developer
+
+---
