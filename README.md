@@ -1,9 +1,8 @@
 # Peter McQuaid
 
-📮 Available to connect
+Available to connect
 
-![Static Badge](https://img.shields.io/badge/Peter%20McQuaid%20-%20%23ffcccb?logo=Gmail&link=mailto%3Apetermcquaid0101%40gmail.com)
-  ![Static Badge](https://img.shields.io/badge/Peter%20McQuaid%20-%20blue?logo=linkedin&link=https%3A%2F%2Fuk.linkedin.com%2Fin%2Fpetermcquaid)
+ [![Gmail Badge](https://img.shields.io/badge/Peter%20McQuaid-fce7eb?logo=gmail&style=flat)](mailto:petermcquaid0101@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/Peter%20McQuaid-blue?logo=linkedin&style=flat)](https://uk.linkedin.com/in/petermcquaid)
 
 ---
 
