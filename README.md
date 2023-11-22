@@ -8,11 +8,16 @@ Available at
 
 ### About
 
-Solidity Developer and independent security researcher. [Warden](https://code4rena.com/@peter) at [@code4rena](https://twitter.com/code4rena)
+
+Solidity Developer and independent security researcher. [Warden](https://code4rena.com/@peter) at [@code4rena](https://twitter.com/code4rena)  
+
+
 
 ### Highlights
 
-- [ETH London 2023 Hackathon](https://www.blog.encode.club/eth-london-hackathon-prizewinners-and-summary-85cdff4d093d) Winner - Article on [Self-Sovereign Identity Use Cases in DeFi](https://github.com/PeterMcQuaid/SSIs_In_DeFi/blob/main/Emergent_Use_Cases/Peter%20McQuaid%20-%20Emergent%20Use%20Cases%20for%20Self-Sovereign%20Identity%20in%20DeFi.pdf)
+
+- [ETH London 2023 Hackathon](https://www.blog.encode.club/eth-london-hackathon-prizewinners-and-summary-85cdff4d093d) Winner - Article on [Self-Sovereign Identity Use Cases in DeFi](https://github.com/PeterMcQuaid/SSIs_In_DeFi/blob/main/Emergent_Use_Cases/Peter%20McQuaid%20-%20Emergent%20Use%20Cases%20for%20Self-Sovereign%20Identity%20in%20DeFi.pdf)  
+
 
 
 ### Public Audit Contests
@@ -23,5 +28,5 @@ Solidity Developer and independent security researcher. [Warden](https://code4re
 | Steadefi | Vaults with automated risk management for earning leveraged yields | 1 High | CodeHawks |
 | The Wildcat Protocol | Undercollateralised on-chain credit facilities | 1 High | Code4rena 
 
----
+
 
