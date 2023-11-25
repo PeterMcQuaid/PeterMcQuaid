@@ -9,7 +9,7 @@ Available at
 ### About
 
 
-Solidity Developer and independent security researcher. [Warden](https://code4rena.com/@peter) at [@code4rena](https://twitter.com/code4rena)  
+Solidity developer and independent security researcher. [Warden](https://code4rena.com/@peter) at [@code4rena](https://twitter.com/code4rena)  
 
 
 
