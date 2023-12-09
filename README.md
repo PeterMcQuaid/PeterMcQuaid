@@ -23,10 +23,11 @@ Solidity developer and independent security researcher. [Warden](https://code4re
 ### Public Audit Contests
 
 
-| Contest                              | Description                                                  | Findings | Platform  |
-| :------------------------------------: | :------------------------------------------------------------: | :-----------------------------------------: | :-------: |
-| Steadefi | Vaults with automated risk management for earning leveraged yields | 1 High | CodeHawks |
-| The Wildcat Protocol | Undercollateralised on-chain credit facilities | 1 High | Code4rena 
+| Contest | Description | Findings | Platform | Date |
+| :------------------------------------: | :------------------------------------------------------------: | :-----------------------------------------: | :-------: |  :----------------:  |
+| Kelp DAO | Liquid restaking | 1 High | Code4rena | Nov 23 |
+| Steadefi | Vaults with automated risk management for earning leveraged yields | 1 High | CodeHawks | Oct 23 |
+| The Wildcat Protocol | Undercollateralised on-chain credit facilities | 1 High | Code4rena | Oct 23 |
 
 
 
