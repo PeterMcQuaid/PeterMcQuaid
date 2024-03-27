@@ -25,6 +25,7 @@ Solidity developer and independent security researcher. [Warden](https://code4re
 
 | Contest | Description | Findings | Platform | Date |
 | :------------------------------------: | :------------------------------------------------------------: | :-----------------------------------------: | :-------: |  :----------------:  |
+| AI Arena | AI NFT Gaming | 3 High, 2 Medium, Grade A QA, Grade B Gas Report | Code4rena | Feb 24
 | reNFT | NFT Lending | 2 Medium | Code4rena | Jan 24 |
 | Ethereum Credit Guild | Lending | 1 Medium | Code4rena | Dec 23 |
 | DeGate (Boost) | DEX | 1 Medium | ImmuneFi | Nov 23 |
