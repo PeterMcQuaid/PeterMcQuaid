@@ -19,6 +19,10 @@ Solidity developer and independent security researcher. [Warden](https://code4re
 - [ETH London 2023 Hackathon](https://www.blog.encode.club/eth-london-hackathon-prizewinners-and-summary-85cdff4d093d) Winner - Article on [Self-Sovereign Identity Use Cases in DeFi](https://github.com/PeterMcQuaid/SSIs_In_DeFi/blob/main/Emergent_Use_Cases/Peter%20McQuaid%20-%20Emergent%20Use%20Cases%20for%20Self-Sovereign%20Identity%20in%20DeFi.pdf)  
 
 
+### Medium Articles
+
+- [Immutable Variables in Pure Yul](https://medium.com/@petermcquaid0101/immutable-variables-in-pure-yul-17442a4c3cc0)
+
 
 ### Public Audit Contests
 
