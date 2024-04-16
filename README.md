@@ -21,6 +21,7 @@ Solidity developer and independent security researcher. [Warden](https://code4re
 
 ### Medium Articles
 
+- [A Technical Breakdown of Cancun](https://medium.com/@petermcquaid0101/a-technical-breakdown-of-cancun-c85df41c2e5e)
 - [Immutable Variables in Pure Yul](https://medium.com/@petermcquaid0101/immutable-variables-in-pure-yul-17442a4c3cc0)
 
 
