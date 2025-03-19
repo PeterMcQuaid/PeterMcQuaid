@@ -2,14 +2,14 @@
 
 Available at
 
- [![Gmail Badge](https://img.shields.io/badge/Peter%20McQuaid-fce7eb?logo=gmail&style=flat)](mailto:petermcquaid0101@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/Peter%20McQuaid-blue?logo=linkedin&style=flat)](https://uk.linkedin.com/in/petermcquaid) [![StackExchange Bitcoin Badge](https://img.shields.io/badge/StackExchange%20-white?logo=bitcoin&style=flat)](https://bitcoin.stackexchange.com/users/139960/peter) [![StackExchange Ethereum Badge](https://img.shields.io/badge/StackExchange%20-c4cef8?logo=ethereum&style=flat)](https://ethereum.stackexchange.com/users/121725/peter)
+ [![Gmail Badge](https://img.shields.io/badge/Peter%20McQuaid-fce7eb?logo=gmail&style=flat)](mailto:petermcquaid0101@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/Peter%20McQuaid-blue?logo=linkedin&style=flat)](https://uk.linkedin.com/in/petermcquaid) [![StackExchange Bitcoin Badge](https://img.shields.io/badge/StackExchange%20-white?logo=bitcoin&style=flat)](https://bitcoin.stackexchange.com/users/139960/peter) [![StackExchange Ethereum Badge](https://img.shields.io/badge/StackExchange%20-c4cef8?logo=ethereum&style=flat)](https://ethereum.stackexchange.com/users/121725/peter) [![Solana Badge](https://img.shields.io/badge/StackExchange%20-white?logo=solana&style=flat)](https://solana.stackexchange.com/users/38374/peter)
 
 ---
 
 ### About
 
 
-Solidity developer and independent security researcher. [Warden](https://code4rena.com/@peter) at [@code4rena](https://twitter.com/code4rena)  
+Web3 security researcher. [Warden](https://code4rena.com/@peter) at [@code4rena](https://twitter.com/code4rena).
 
 
 
@@ -31,6 +31,7 @@ Solidity developer and independent security researcher. [Warden](https://code4re
 
 | Contest | Description | Findings | Platform | Date |
 | :------------------------------------: | :------------------------------------------------------------: | :-----------------------------------------: | :-------: |  :----------------:  |
+| Concrete | Lending | 1 High, 4 Medium, Ranked 19/136 | Code4rena | Nov 24
 | AI Arena | AI NFT Gaming | 3 High, 2 Medium, Grade A QA, Grade B Gas Report | Code4rena | Feb 24
 | reNFT | NFT Lending | 2 Medium | Code4rena | Jan 24 |
 | Ethereum Credit Guild | Lending | 1 Medium | Code4rena | Dec 23 |
